@@ -17,14 +17,14 @@
 
 #### Manual Installation
 ```bash
-git clone https://github.com/Waxxx333/Catppuccin_Geany
-cd Catppuccin_Geany
+git clone https://github.com/catppuccin/geany
+cd geany
 cp catppuccin.conf ~/.config/geany/colorschemes
 ```
 #### Using the install script<kbd>(Linux users)</kbd>
 ```bash
-git clone https://github.com/Waxxx333/Catppuccin_Geany
-cd Catppuccin_Geany
+git clone https://github.com/catppuccin/geany
+cd geany
 chmod +x install.sh
 ./install.sh
 ```
