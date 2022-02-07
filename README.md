@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for App
+	Catppuccin for Geany
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -12,26 +12,31 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/sample.png"/>
+  <img src="https://github.com/catppuccin/geany/blob/main/assets/ss.png"/>
 </p>
 
-## Usage
+#### Manual Installation
+```bash
+git clone https://github.com/Waxxx333/Catppuccin_Geany
+cd Catppuccin_Geany
+cp catppuccin.conf ~/.config/geany/colorschemes
+```
+#### Using the install script<kbd>(Linux users)</kbd>
+```bash
+git clone https://github.com/Waxxx333/Catppuccin_Geany
+cd Catppuccin_Geany
+chmod +x install.sh
+./install.sh
+```
+### Once the config file is installed, open Geany, go to view tab >> Change color scheme >> Catppuccin
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
-
-## 🙋 FAQ (optional)
-
-- Q: **_"Where can I find the doc?"_**
-  A: Run `:help theme`
-
+<!-- ????
 ## 💝 Thanks to
 
 - [Human](https://github.com/catppuccin)
 
 &nbsp;
+--> 
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p align="center">Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
