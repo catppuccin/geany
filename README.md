@@ -19,7 +19,7 @@
 
 ### Installation
 
-### Manual
+#### Manual
 
 ```bash
 git clone https://github.com/catppuccin/geany
@@ -27,7 +27,7 @@ cd geany
 cp catppuccin.conf ~/.config/geany/colorschemes
 ```
 
-### Automated <kbd>(Linux users)</kbd>
+#### Automated <kbd>(Linux users)</kbd>
 
 ```bash
 git clone https://github.com/catppuccin/geany
