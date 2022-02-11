@@ -19,7 +19,7 @@
 
 ### Installation
 
-#### Manual
+#### Manual <kbd>(Linux)</kbd>
 
 ```bash
 git clone https://github.com/catppuccin/geany
@@ -36,7 +36,9 @@ chmod +x install.sh
 ./install.sh
 ```
 #### Windows installation <kbd>(Manual | No installer yet)</kbd>
-Open ***File Explorer*** as Administrator and copy `catppuccin.conf` to `C:\Program Files\Geany\data\colorschemes`
+* Download or clone this repository (`git clone https://github.com/catppuccin/geany`)
+* Open ***File Explorer*** as Administrator
+* Copy <kbd>catppuccin.conf</kbd> to `C:\Program Files\Geany\data\colorschemes`
 
 ### Apply
 
