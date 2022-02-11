@@ -35,8 +35,8 @@ cd geany
 chmod +x install.sh
 ./install.sh
 ```
-#### Windows installation 
-Open ***File Explorer*** as Administrator and copy <kbd>catppuccin.conf</kbd> to <kbd>C:\Program Files\Geany\data\colorschemes</kbd>
+#### Windows installation <kbd>(Manual | No installer yet)</kbd>
+Open ***File Explorer*** as Administrator and copy `catppuccin.conf` to `C:\Program Files\Geany\data\colorschemes`
 
 ### Apply
 
