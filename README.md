@@ -23,13 +23,14 @@
 
 ```bash
 git clone https://github.com/catppuccin/geany
-cd geany
-cp catppuccin-flavour.conf ~/.config/geany/colorschemes
+cd geany/src
+mkdir ~/.config/geany/colorschemes/
+cp catppuccin-flavour.conf ~/.config/geany/colorschemes/
 ```
 #### Windows installation <kbd>(Manual)</kbd>
 * Download or clone this repository (`git clone https://github.com/catppuccin/geany`)
 * Open ***File Explorer*** as Administrator
-* Copy <kbd>catppuccin-*flavour*.conf</kbd> to `C:\Program Files\Geany\data\colorschemes`
+* Go to the `src` folder then copy <kbd>catppuccin-*flavour*.conf</kbd> to `C:\Program Files\Geany\data\colorschemes\`
 
 ### Apply
 
