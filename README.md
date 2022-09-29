@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/catppuccin/geany/blob/main/assets/ss.png"/>
+  <img src="assets/ss.png"/>
 </p>
 
 ## Usage
@@ -24,31 +24,24 @@
 ```bash
 git clone https://github.com/catppuccin/geany
 cd geany
-cp catppuccin.conf ~/.config/geany/colorschemes
+cp catppuccin-flavour.conf ~/.config/geany/colorschemes
 ```
-
-#### Automated <kbd>(Linux users)</kbd>
-
-```bash
-git clone https://github.com/catppuccin/geany
-cd geany
-chmod +x install.sh
-./install.sh
-```
-#### Windows installation <kbd>(Manual | No installer yet)</kbd>
+#### Windows installation <kbd>(Manual)</kbd>
 * Download or clone this repository (`git clone https://github.com/catppuccin/geany`)
 * Open ***File Explorer*** as Administrator
-* Copy <kbd>catppuccin.conf</kbd> to `C:\Program Files\Geany\data\colorschemes`
+* Copy <kbd>catppuccin-*flavour*.conf</kbd> to `C:\Program Files\Geany\data\colorschemes`
+
+#### MacOS installation <kbd>(TO-DO: Manual)</kbd>
 
 ### Apply
 
 1. Open Geany
-2. Go to the `view` tab >> `Change color scheme` >> pick `Catppuccin`
+2. Go to the `view` tab >> `Change color scheme` >> pick your desired `Catppuccin Flavour`
 
 ## 💝 Thanks to
 
 -   [Waxxx333 ](https://github.com/Waxxx333)
-
+-   [Isabelincorp ](https://github.com/isabelincorp)
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
