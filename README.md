@@ -19,7 +19,7 @@
 
 ### Installation
 
-#### Manual <kbd>(Linux)</kbd>
+#### Manual <kbd>(Linux/MacOS)</kbd>
 
 ```bash
 git clone https://github.com/catppuccin/geany
@@ -30,8 +30,6 @@ cp catppuccin-flavour.conf ~/.config/geany/colorschemes
 * Download or clone this repository (`git clone https://github.com/catppuccin/geany`)
 * Open ***File Explorer*** as Administrator
 * Copy <kbd>catppuccin-*flavour*.conf</kbd> to `C:\Program Files\Geany\data\colorschemes`
-
-#### MacOS installation <kbd>(TO-DO: Manual)</kbd>
 
 ### Apply
 
