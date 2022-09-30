@@ -44,7 +44,7 @@
 git clone https://github.com/catppuccin/geany
 cd geany/src
 mkdir ~/.config/geany/colorschemes/
-cp catppuccin-flavour.conf ~/.config/geany/colorschemes/
+cp *.conf ~/.config/geany/colorschemes/
 ```
 #### Windows installation <kbd>(Manual)</kbd>
 * Download or clone this repository (`git clone https://github.com/catppuccin/geany`)
