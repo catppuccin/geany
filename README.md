@@ -12,43 +12,54 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/catppuccin/geany/blob/main/assets/ss.png"/>
+  <img src="assets/res.webp"/>
 </p>
+
+## Previews
+
+<details>
+<summary>🌻 Latte</summary>
+<img src="assets/latte.png"/>
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+<img src="assets/frappe.png"/>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="assets/macchiato.png"/>
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+<img src="assets/mocha.png"/>
+</details>
 
 ## Usage
 
 ### Installation
 
-#### Manual <kbd>(Linux)</kbd>
+#### Manual <kbd>(Linux/MacOS)</kbd>
 
 ```bash
 git clone https://github.com/catppuccin/geany
-cd geany
-cp catppuccin.conf ~/.config/geany/colorschemes
+cd geany/src
+mkdir ~/.config/geany/colorschemes/
+cp *.conf ~/.config/geany/colorschemes/
 ```
-
-#### Automated <kbd>(Linux users)</kbd>
-
-```bash
-git clone https://github.com/catppuccin/geany
-cd geany
-chmod +x install.sh
-./install.sh
-```
-#### Windows installation <kbd>(Manual | No installer yet)</kbd>
+#### Windows installation <kbd>(Manual)</kbd>
 * Download or clone this repository (`git clone https://github.com/catppuccin/geany`)
 * Open ***File Explorer*** as Administrator
-* Copy <kbd>catppuccin.conf</kbd> to `C:\Program Files\Geany\data\colorschemes`
+* Go to the `src` folder then copy <kbd>catppuccin-*flavour*.conf</kbd> to `C:\Program Files\Geany\data\colorschemes\`
 
 ### Apply
 
 1. Open Geany
-2. Go to the `view` tab >> `Change color scheme` >> pick `Catppuccin`
+2. Go to the `view` tab >> `Change color scheme` >> pick your desired `Catppuccin Flavour`
 
 ## 💝 Thanks to
 
 -   [Waxxx333 ](https://github.com/Waxxx333)
-
+-   [Isabelincorp ](https://github.com/isabelincorp)
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
