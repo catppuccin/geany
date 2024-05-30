@@ -13,7 +13,7 @@ whiskers:
 #
 [theme_info]
 name=Catppuccin {{ flavor.name }}
-description=Soothing pastel theme for Geany
+description=Soothing pastel theme for the high-spirited!
 version=0.2.5
 author=Isabelinc
 compat=1.22;1.23;1.23.1;1.24
