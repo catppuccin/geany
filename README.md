@@ -36,30 +36,16 @@
 
 ## Usage
 
-### Installation
-
-#### Manual <kbd>(Linux/MacOS)</kbd>
-
-```bash
-git clone https://github.com/catppuccin/geany
-cd geany/src
-mkdir ~/.config/geany/colorschemes/
-cp *.conf ~/.config/geany/colorschemes/
-```
-#### Windows installation <kbd>(Manual)</kbd>
-* Download or clone this repository (`git clone https://github.com/catppuccin/geany`)
-* Open ***File Explorer*** as Administrator
-* Go to the `src` folder then copy <kbd>catppuccin-*flavour*.conf</kbd> to `C:\Program Files\Geany\data\colorschemes\`
-
-### Apply
-
-1. Open Geany
-2. Go to the `view` tab >> `Change color scheme` >> pick your desired `Catppuccin Flavour`
+1. Copy your preferred flavor(s) from [`src/`](./src/) to either `~/.config/geany/colorschemes/` on macOS/Linux or `C:\Program Files\Geany\data\colorschemes\` on Windows.
+2. Open Geany.
+3. Go to **View** > **Change color scheme**.
+4. Select your new Catppuccin flavor!
 
 ## 💝 Thanks to
 
--   [Waxxx333 ](https://github.com/Waxxx333)
--   [Isabelincorp ](https://github.com/isabelincorp)
+- [Waxxx333 ](https://github.com/Waxxx333)
+- [Isabelincorp ](https://github.com/isabelincorp)
+
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
